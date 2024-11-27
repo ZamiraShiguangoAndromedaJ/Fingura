@@ -21,6 +21,9 @@ public class Figuras {
         Cuadrado objCuadrado = new Cuadrado(9);
         //objCuadrado.imprimir(); *si lo queremos mostrar los valores al usuario
         
+        
+        //hola
+        
         double area=objCuadrado.calcularAreaCuadrado();
         System.out.println("el area del Cuadrado es:"+area);
         
